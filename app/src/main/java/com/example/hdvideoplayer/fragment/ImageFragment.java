@@ -94,6 +94,8 @@ public class ImageFragment extends Fragment {
 
 
 
+
+
     private ArrayList<String> getAllShownImagesPath(Activity activity) {
         Uri uri;
         Cursor cursor;
